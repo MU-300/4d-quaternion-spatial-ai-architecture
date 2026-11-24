@@ -68,4 +68,5 @@ This architecture can be prototyped and benchmarked on standard GPU/FPGA hardwar
 3. $C_{12}$ phase-locked resonance scoring, measuring perplexity-per-watt and activation norm stability against standard FP16/INT4 Transformers.
 
 ---
-* **Companion Architecture (AI Inference):** See [4d-quaternion-spatial-ai-architecture](https://github.com/MU-300/4d-quaternion-spatial-ai-architecture) for the application of this $P_1 + P_2 = 1$ projection and $C_{12}$ phase-resonance framework to post-Transformer neural architectures.
+---
+* **Companion Architecture (Wireless Communications):** See [4d-quaternion-spatial-modulation](https://github.com/MU-300/4d-quaternion-spatial-modulation) for the physical-layer RF/SDR formulation of this $P_1 + P_2 = 1$ projection and $C_{12}$ synchronization architecture.
