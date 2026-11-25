@@ -16,7 +16,7 @@ Current Large Language Models (LLMs) and Transformer architectures rely on brute
 3. **Artificial Positional Encoding**: Because standard dot-product attention is permutation-invariant, sequential order must be externally injected via Positional Encodings (e.g., RoPE) rather than arising natively from state transitions.
 4. **Semantic Drift & Hallucination**: Unconstrained continuous vector spaces allow intermediate representations to drift into ungrounded regions without structural anchors.
 
-Just as wireless modulation must move beyond flat 2D $I$-$Q$ plane subdivision (4096-QAM) toward 4D hyperspherical symmetries ($S^3$), AI architectures can overcome flat vector scaling by operating directly on **discrete, norm-preserving 4D/8D algebraic lattices**.
+Just as wireless modulation must move beyond flat 2D  $I$ - $Q$  plane subdivision (4096-QAM) toward 4D hyperspherical symmetries ($S^3$), AI architectures can overcome flat vector scaling by operating directly on **discrete, norm-preserving 4D/8D algebraic lattices**.
 
 ---
 
